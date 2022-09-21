@@ -6,5 +6,5 @@ int main(int argc, char **argv)
     last[255]; 
     askname(first, last);
     printf("Hello, %s %s!\n", first, last); 
-    return 0; 
+    return 0;//Спасибо за эту замечательную работу!!!
 }
